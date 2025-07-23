@@ -5,7 +5,7 @@
   The <strong>Medical Store Management System</strong> is a web-based application designed to simplify and automate 
   the process of purchasing medicines and healthcare products online. It aims to provide a 
   <strong>user-friendly</strong>, <strong>secure</strong>, and <strong>accessible</strong> platform for users to browse, order, 
-  and get medicines delivered to their doorstep.
+  and get medicines delivered to their doorstep.This is a platform for sponsors.
 </p>
 
 <hr>
