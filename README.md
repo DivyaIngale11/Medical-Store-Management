@@ -1,5 +1,3 @@
-Medical-Store-Management
-Web Platform
 <h1>Medical Store Management Website</h1>
 
 <h2>Overview</h2>
@@ -37,4 +35,5 @@ Web Platform
 
 <h2>Technologies Used</h2>
 <ul>
-  <li><strong>Frontend:</strong> HTML, CSS
+  <li><strong>Frontend:</strong> HTML, CSS,JavaScript</li>
+  <li>Backend Technologies: JavaScript, EmailJS Library</li>
